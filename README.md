@@ -84,7 +84,6 @@ It uses a lightweight agent-server model to collect endpoint activity, stores ev
 
 ## 📷 Screenshots
 
-> Replace these placeholders with your actual screenshots once saved in the `screenshots/` folder.
 
 | Login | Dashboard |
 |---|---|
