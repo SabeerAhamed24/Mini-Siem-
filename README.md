@@ -196,4 +196,4 @@ This turns raw alerts into actionable steps, which is especially useful for smal
 Cybersecurity Graduate | Digital Forensics | SOC & Threat Detection
 
 - GitHub: [@SabeerAhamed24](https://github.com/SabeerAhamed24)
-- LinkedIn: *add your LinkedIn URL here*
+- LinkedIn: www.linkedin.com/in/sabeer-ahamed-085636334
